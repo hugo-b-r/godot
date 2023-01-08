@@ -8843,15 +8843,15 @@ msgstr "Centré à Gauche"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Center Top"
-msgstr "Centrée en Haut"
+msgstr "Centré en Haut"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Center Right"
-msgstr "Centrée à droite"
+msgstr "Centré à droite"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Center Bottom"
-msgstr "Centrée en bas"
+msgstr "Centré en bas"
 
 #: editor/plugins/canvas_item_editor_plugin.cpp
 msgid "Center"
